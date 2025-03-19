@@ -41,6 +41,16 @@ sections:
         textAlign: center
         fontWeight: 700
     type: GenericSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://x.com/s_appdevelop'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
