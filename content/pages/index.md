@@ -373,10 +373,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
     colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
