@@ -12,26 +12,6 @@ sections:
       type: TitleBlock
     subtitle: 'Check, Prevent and Eliminate Personal Data Leaks'
     text: ''
-    media:
-      title: Title of the video
-      url: 'https://youtu.be/ZRwOv3qvxoA'
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     colors: bg-dark-fg-light
     styles:
       self:
@@ -60,6 +40,14 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Zrzut ekranu 2025-03-19 215835.png
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: ImageGallerySection
     subtitle: Our Sponsors
     images:
