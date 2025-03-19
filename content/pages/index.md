@@ -52,7 +52,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: View on Github
         altText: ''
         url: '/https://github.com/troo666/OwlGuardx'
         showIcon: false
