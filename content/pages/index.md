@@ -46,7 +46,7 @@ sections:
         label: Twitter
         altText: ''
         url: '/https://x.com/s_appdevelop'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
