@@ -15,7 +15,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Twitter",
             "altText": "",
             "url": "/https://x.com/s_appdevelop",
             "showIcon": false,
