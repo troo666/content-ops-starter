@@ -122,10 +122,11 @@ sections:
       - type: FeaturedItem
         title: Password Manager
         subtitle: Take care of your passwords
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The application has the function of safely storing passwords in an
+          encrypted form and checking by advanced ai model if your password has
+          been leaked somewhere, if it has been, you will be notified
+          immediately
         actions: []
         elementId: null
         colors: bg-light-fg-dark
