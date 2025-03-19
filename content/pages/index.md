@@ -307,7 +307,16 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /pump.fun
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
