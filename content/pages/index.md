@@ -282,10 +282,20 @@ sections:
       - type: FeaturedItem
         title: How can i support your project?
         subtitle: Investing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We plan to launch **our own cryptocurrency** on **Pump.fun**, followed
+          by **Raydium**. You will have the opportunity to purchase it to
+          **support our project financially** and potentially achieve
+          **significant returns** once our application is released to the
+          market.
+
+
+          This is not only an investment opportunity but also a chance to **be
+          part of the development of innovative cybersecurity and data
+          protection technology**
+
+
+
         actions: []
         colors: bg-light-fg-dark
         styles:
