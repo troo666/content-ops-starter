@@ -232,10 +232,7 @@ sections:
       - type: FeaturedItem
         title: What are our exact plans?
         subtitle: Plans
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Our goal is to develop an **innovative application for both desktop and mobile devices** that ensures **maximum security for your data**.\n\n\U0001F539 **Secure Password Storage** – Instead of traditional databases, we utilize **blockchain technology**, making it impossible for even the most advanced hackers to access your credentials.\n\n\U0001F539 **Real-Time Data Breach Monitoring** – Our advanced **AI algorithm** continuously scans the web to check if your data (passwords, email addresses, credit card numbers, or ID information) has been leaked. If any breach is detected, we will notify you immediately.\n\n\U0001F539 **Self-Check for Publicly Exposed Data** – Users can manually verify which of their personal data has been compromised or made publicly available online.\n\n\U0001F539 **Erasing Personal Data from the Internet** – Using **sophisticated AI-driven queries**, our application helps remove sensitive information from the web—whether it's passwords, private details, or media files that continue to circulate even after deletion.\n\nThis is a **comprehensive solution** for anyone who values **complete control over their digital identity and privacy**.\n\n\n\n"
         actions: []
         colors: bg-light-fg-dark
         styles:
