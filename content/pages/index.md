@@ -14,8 +14,7 @@ sections:
     text: ''
     media:
       title: Title of the video
-      url: >-
-        https://www.loom.com/share/5895998593214566997fc0adc8700f84?sid=1ae89c7b-c196-4683-9ea5-0d57ba246ec8
+      url: /images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
