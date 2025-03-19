@@ -126,7 +126,7 @@ sections:
           The application has the function of safely storing passwords in an
           encrypted form and checking by advanced ai model if your password has
           been leaked somewhere, if it has been, you will be notified
-          immediately
+          immediately.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
