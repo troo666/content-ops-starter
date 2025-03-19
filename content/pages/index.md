@@ -4,7 +4,7 @@ slug: /
 sections:
   - title:
       text: Develop Robust and Adaptive AI for Dark Web Threat Detection
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
