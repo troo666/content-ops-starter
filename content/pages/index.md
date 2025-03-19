@@ -25,7 +25,7 @@ sections:
       - type: Button
         label: Twitter
         altText: ''
-        url: '/https://x.com/s_appdevelop'
+        url: 'https://x.com/s_appdevelop'
         showIcon: true
         icon: twitter
         iconPosition: right
@@ -34,7 +34,7 @@ sections:
       - type: Button
         label: View on Github
         altText: ''
-        url: '/https://github.com/troo666/OwlGuardx'
+        url: 'https://github.com/troo666/OwlGuardx'
         showIcon: true
         icon: github
         iconPosition: right
