@@ -325,11 +325,9 @@ sections:
       color: text-light
       type: TitleBlock
     subtitle: Write to us via e-mail!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      If you have any questions about the project or would like to suggest
+      something or support us in another way, feel free to write to us
     media:
       fields:
         - name: name
