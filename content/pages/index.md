@@ -56,7 +56,7 @@ sections:
         altText: ''
         url: '/https://github.com/troo666/OwlGuardx'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         style: secondary
         elementId: ''
