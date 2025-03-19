@@ -222,7 +222,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Q&A
       color: text-light
       styles:
         self:
