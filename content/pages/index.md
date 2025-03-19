@@ -309,7 +309,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: Pump Fun
         url: /
         icon: arrowRight
         iconPosition: right
