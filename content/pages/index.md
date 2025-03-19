@@ -34,7 +34,7 @@ sections:
       - type: Button
         label: View on Github
         altText: ''
-        url: '/https://github.com/troo666/OwlGuardx'
+        url: 'https://github.com/troo666/OwlGuardx'
         showIcon: true
         icon: github
         iconPosition: right
