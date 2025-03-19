@@ -307,13 +307,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: Pump Fun
-        url: /pump.fun
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
