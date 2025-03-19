@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Grow your business 10x faster
+      text: Develop Robust and Adaptive AI for Dark Web Threat Detection
       color: text-dark
       styles:
         self:
