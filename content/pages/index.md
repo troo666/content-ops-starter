@@ -310,7 +310,7 @@ sections:
     actions:
       - type: Button
         label: Pump Fun
-        url: /
+        url: /pump.fun
         icon: arrowRight
         iconPosition: right
         style: primary
