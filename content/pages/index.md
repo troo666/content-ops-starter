@@ -150,7 +150,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: finding data leaks function
+      - title: Finding data leaks function
         subtitle: Check if your data has been leaked somewhere
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
