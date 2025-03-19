@@ -25,7 +25,7 @@ sections:
       - type: Button
         label: Twitter
         altText: ''
-        url: '/https://x.com/s_appdevelop'
+        url: 'https://x.com/s_appdevelop'
         showIcon: true
         icon: twitter
         iconPosition: right
