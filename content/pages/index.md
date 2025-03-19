@@ -42,7 +42,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Zrzut ekranu 2025-03-19 215835.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
