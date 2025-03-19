@@ -51,6 +51,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://github.com/troo666/OwlGuardx'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
