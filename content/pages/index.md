@@ -8,7 +8,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 700
       type: TitleBlock
     subtitle: 'Check, Prevent and Eliminate Personal Data Leaks'
     text: ''
