@@ -152,10 +152,10 @@ sections:
               borderRadius: x-large
       - title: Finding data leaks function
         subtitle: Check if your data has been leaked somewhere
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Advanced AI algorithms available in the application will very quickly
+          search all data available on the web in search of your publicly
+          available data
         image:
           url: /images/icon2.svg
           altText: Featured icon two
