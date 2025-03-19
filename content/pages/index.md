@@ -322,7 +322,7 @@ sections:
         textAlign: center
   - title:
       text: Contact Us
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: |-
