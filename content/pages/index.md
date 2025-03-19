@@ -249,10 +249,23 @@ sections:
       - type: FeaturedItem
         title: Is there any demo of the app?
         subtitle: Open source demo
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We have decided to release a **free, open-source demo** on GitHub,
+          allowing you to test one of our key features – **checking whether your
+          password has been leaked online**.
+
+
+          At this stage, the demo operates **without a graphical user interface
+          (GUI)**, but our goal is to **familiarize you with this innovative
+          technology** and demonstrate its effectiveness in protecting your
+          data.
+
+
+          This is just the beginning – we plan to further develop and integrate
+          the full version of the application in the future.
+
+
+
         actions: []
         colors: bg-light-fg-dark
         styles:
