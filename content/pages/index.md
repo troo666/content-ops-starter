@@ -93,7 +93,7 @@ sections:
         elementId: ''
     elementId: ''
     motion: move-to-right
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         margin:
