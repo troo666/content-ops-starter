@@ -373,7 +373,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: null
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
