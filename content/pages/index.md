@@ -247,7 +247,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: I
+        title: Is there any demo of the app?
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
