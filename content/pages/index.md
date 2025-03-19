@@ -7,6 +7,9 @@ sections:
       text: Unblock your team boost your time to production
       color: text-light
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
