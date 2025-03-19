@@ -14,7 +14,7 @@ sections:
     text: ''
     media:
       title: Title of the video
-      url: /images/Re_ - 19 March 2025.mp4
+      url: /images/1.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
