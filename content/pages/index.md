@@ -121,7 +121,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Password Manager
-        subtitle: Numbers Done
+        subtitle: Take care of your passwords
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
