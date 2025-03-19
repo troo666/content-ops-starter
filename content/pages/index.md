@@ -281,7 +281,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: How can i support your project?
-        subtitle: Engineering
+        subtitle: Investing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
