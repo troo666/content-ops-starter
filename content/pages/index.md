@@ -151,7 +151,7 @@ sections:
             self:
               borderRadius: x-large
       - title: finding leaks data leaks function
-        subtitle: The Job Stuff
+        subtitle: Check if your data has been leaked somewhere
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
