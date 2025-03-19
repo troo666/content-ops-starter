@@ -163,7 +163,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: everything you need to keep your data safe
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
