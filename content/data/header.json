@@ -14,14 +14,6 @@
     "primaryLinks": [],
     "secondaryLinks": [
         {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
-        },
-        {
             "type": "Button",
             "label": "Get started",
             "altText": "",
