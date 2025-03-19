@@ -162,7 +162,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: everything you need to keep your data safe
       color: text-dark
       styles:
         self:
