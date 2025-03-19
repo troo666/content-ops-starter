@@ -14,7 +14,7 @@ sections:
     text: ''
     media:
       title: Title of the video
-      url: 'https://youtu.be/ZRwOv3qvxo'
+      url: 'https://youtu.be/ZRwOv3qvxoA'
       controls: false
       aspectRatio: '16:9'
       styles:
