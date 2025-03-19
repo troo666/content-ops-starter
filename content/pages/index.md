@@ -162,7 +162,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: everything you need to keep your data safe
+      text: Everything You Need to Keep Your Data Safe
       color: text-light
       styles:
         self:
