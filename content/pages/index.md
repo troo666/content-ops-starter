@@ -155,7 +155,7 @@ sections:
         text: >
           Advanced AI algorithms available in the application will very quickly
           search all data available on the web in search of your publicly
-          available data
+          available data like passwords or card numbers.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
