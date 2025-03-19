@@ -31,7 +31,7 @@ sections:
       autoplay: true
       loop: true
       muted: true
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: col
