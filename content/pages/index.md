@@ -43,7 +43,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Tw
         altText: ''
         url: '/https://x.com/s_appdevelop'
         showIcon: false
