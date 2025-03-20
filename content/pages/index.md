@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Develop Robust and Adaptive AI for Dark Web Threat Detection
+      text: Develop Robust and Adaptive AI for Private Data Threat Detection
       color: text-light
       styles:
         self:
